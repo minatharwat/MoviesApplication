@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_popularity" type="id">popularity</item>
+    <item name="action_TopRated" type="id">TopRated</item>
+</resources>
